@@ -19,7 +19,7 @@
 - Working on building Web & App Development Skills
 - Interested in AI & Machine Learning
 - Hoping to build a Personal website soon!
-- Currently looking for Summer Co-op! Check out [my LinkedIn](www.linkedin.com/in/stanleylin-)!
+- Currently looking for Summer Co-op! Check out [my LinkedIn](https://www.linkedin.com/in/stanleylin-)!
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
