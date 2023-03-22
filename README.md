@@ -10,8 +10,6 @@
 
 ## <picture><img src = "https://user-images.githubusercontent.com/88297063/218368536-67f55ccc-2ded-4fb5-8875-35acab9d3815.png" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://user-images.githubusercontent.com/88297063/218365955-79ddc222-78e8-4001-b174-2eab6507ea6c.gif" width = 250px></picture>
-
 <br>
 
 - First Year Computer Science Student at the University of Waterloo
@@ -21,5 +19,5 @@
 - Hoping to build a Personal website soon!
 - Currently looking for Summer Co-op! Check out [my LinkedIn](https://www.linkedin.com/in/stanleylin-)!
 
-<br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
