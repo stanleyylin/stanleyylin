@@ -13,7 +13,7 @@
 <br>
 
 - Second Year Computer Science Student at the University of Waterloo
-- Web development, C++, Java, & Python
+- I love cool stuff.
 - Check out my [my website](https://stanleylin.ca)!
 - Check out [my LinkedIn](https://www.linkedin.com/in/stanleylin-)!
 
