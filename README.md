@@ -12,8 +12,8 @@
 
 <br>
 
-- Second Year Computer Science Student at the University of Waterloo
-- I love cool stuff.
+- Third Year Computer Science Student at the University of Waterloo
+- I love creating cool stuff.
 - Check out my [my website](https://stanleylin.ca)!
 - Check out [my LinkedIn](https://www.linkedin.com/in/stanleylin-)!
 
