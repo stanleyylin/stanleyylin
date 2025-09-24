@@ -14,6 +14,7 @@
 
 - Third Year Computer Science Student at the University of Waterloo
 - I love creating cool stuff.
+- Most of my contributions now are from internships and thus not shown here!
 - Check out my [my website](https://stanleylin.ca)!
 - Check out [my LinkedIn](https://www.linkedin.com/in/stanleylin-)!
 
